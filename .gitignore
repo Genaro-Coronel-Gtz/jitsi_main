@@ -1,0 +1,5 @@
+*.swp
+.env
+.env.bak
+docker-compose.override.yml
+/jitsi-meet-cfg
